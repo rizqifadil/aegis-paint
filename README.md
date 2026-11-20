@@ -1,2 +1,2 @@
 # aegis-paint
-Website aegis paint untuk portofolio
+Website untuk CV. Global Mitrabadi yaitu aegis paint untuk portofolio
